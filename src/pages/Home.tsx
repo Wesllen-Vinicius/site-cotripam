@@ -1,9 +1,9 @@
-import { Header } from "../components/Header";
-import { Footer } from "../components/Footer";
-import { HeroHome } from "../components/Hero";
-import Features from "../components/Features";
-import Carousel from "../components/Carousel/Carousel";
-import Testimonials from "../components/Testimonials";
+import Carousel from '../components/Carousel/Carousel';
+import Features from '../components/Features';
+import { Footer } from '../components/Footer';
+import { Header } from '../components/Header';
+import { HeroHome } from '../components/Hero';
+import Testimonials from '../components/Testimonials';
 
 export function Home() {
   return (
