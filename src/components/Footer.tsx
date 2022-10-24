@@ -123,11 +123,12 @@ export function Footer() {
             >
               <img alt="" src="src/resources/images/logo-filled.svg" className="h-14" />
             </h6>
-            <p className="font-bold">COTRIPAM IND. E COM. DE TRIPAS</p>
+            <p className="font-bold ">COTRIPAM IND. E COM. DE TRIPAS</p>
+
             <p className="font-bold">PORTAL DO AMAZONAS LTDA</p>
           </div>
           <div className="">
-            <h6 className="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+            <h6 className="uppercase font-semibold mb-0 flex justify-center md:justify-start">
               produtos
             </h6>
             <p className="mb-4">
@@ -147,7 +148,7 @@ export function Footer() {
             </p>
           </div>
           <div className="">
-            <h6 className="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+            <h6 className="uppercase font-semibold flex justify-center md:justify-start">
               links uteis
             </h6>
             <p className="mb-4">
@@ -172,7 +173,7 @@ export function Footer() {
             </p>
           </div>
           <div className="">
-            <h6 className="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+            <h6 className="uppercase font-semibold  flex justify-center md:justify-start">
               contatos
             </h6>
             <p className="flex items-center justify-center md:justify-start mb-4">
